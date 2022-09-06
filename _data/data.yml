@@ -3,200 +3,163 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Nguyen The Anh
+    tagline: iOS Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: anhnt.si@gmail.com
+    phone: 091 607 8803
+    timezone: 01/12/1989
+    citizenship: Ha Noi, Viet Nam
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Vietnam
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: Communicative
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Swimming
           link:
 
-        - item: Snowboarding
+        - item: Running
           link:
 
-        - item: Cooking
+        - item: Reading book
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Organized, collaborative, and highly skilled iOS developer with 9+ years of professional experience in dynamic and deadline-driven work environments.
+      Experience in Mobile Application Systems like iOS, Android. Skilled, motivated and product-oriented mobile application developer with strong Object Oriented Programming Concepts and design skills Experience in developing iPhone and iPad apps.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
+      - degree: Bachelor of Computer Science
+        university: Hanoi University of Business and Technology
         time: 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior iOS Developer/Team Lead
+        time: 5/2019 - 2/2022
+        company: Sun Asterisk, Ha Noi
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Improved product quality through code reviews, writing effective unit tests and collaborating with QA on implementing automation testing.
+            - Explored new technologies and shared findings with the team.
+            - Reviewed client requirements, wireframes, and designs for technical feasibility.
+            - Lead a team of 5 iOS Developer to maintain the old project that has been growing for more than 5 years.
+            - Collaborated with Bridge System Engineer (BrSE) to road map planning, feature development and translate client requirements into implementable user stories.
+            - Key achievement: Achieved sales of 5,000,000 JPY after 1 month of launch.
+      - role: Senior iOS Developer/Team Lead
+        time: 5/2018 - 4/2019
+        company: Websosanh, Ha Noi
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Worked closely with product director and designers to define a rich iOS experience for the user.
+            - Performed technical designs and implementation of all apps.
+            - Conduct software quality assurance to ensure stability.
+            - Create project plans, evaluation and breakdown structure to ensure consistency.
+            - Perform project tracking through clear and concise status reports and time management reports.
+            - Proactively identify potential issues and track project member progress against commitments.
+            - Key achievement: Achieved top 10 in News category on the App Store with million download. 
+      - role: iOS Developer
+        time: 2012 - 2018
+        company: Tinh Van Outsourcing, Ha Noi
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Work onsite in many companies: NEC, Panasonic, Savvycom, TrueMoney. Highly adaptable to many working environments.
+            - Work directly with customers to discuss requirements, make recommendations to improve application performance.
+            - Mentor, training many new iOS Developers.
+            - Created many small applications that interact with RESTful services and backends.
+            - Key achievement: Developed and launched apps in over 7+ countries.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are the standout projects I've worked on in recent years.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Mooos
+        link: "https://shuta-sueyoshi-app.com/"
+        tagline: "Mooos builds a connection solution between artists and their fan base like a social network (fan community), including utilities such as live stream, 1:1 video call... In the project, I am in charge of building apps for artist. "
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Manga reader by SHUEISHA Inc
+        link: "https://apps.apple.com/jp/developer/shueisha-inc/id386723683"
+        tagline: "SHUEISHA is a major Japanese publisher. They have developed a lot of manga apps specifically for the Japanese. I lead a team of 5 iOS Developers to maintain their projects."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Voicy
+        link: "https://voicy.jp/"
+        tagline: "It is a unique audio platform that is different from radio and podcasts. This is a startup project. I joined the project when they just called for more investment capital. This project is an upgrade to their previous version. I was in charge of audio processing, downloading and uploading audio."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Dân Trí
+        link: "https://apps.apple.com/vn/app/b%C3%A1o-d%C3%A2n-tr%C3%AD-dantri-com-vn/id1455334618?l=vi"
+        tagline: "This is the official newspaper reading application. I am in charge of the entire application development and operation. The app had incredible downloads and was well-reviewed at launch."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: TrueMoney Viet Nam
+        link: "https://truemoney.com.vn/"
+        tagline: "TrueMoney is a financial technology brand, providing e-payment services in Southeast Asia. I joined as a partner when they lacked personnel when developing the application. I am in charge of mobile recharge."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Elsa
+        link: "https://elsaspeak.com/"
+        tagline: "ELSA (English Language Speech Assistant) is an English Learning app that helps you with pronunciation and vocabulary to speak English confidently and clearly. I joined to fix the bug when they had a spike in users after getting the startup award. I got to work directly with the founding members of the project to develop the next features."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Unilever Food Solutions
+        link: "https://opsolutions.biz/our-works?title=Armstrong%20UFS"
+        tagline: "Unilever Food Solutions is a business to support chefs including supplying of food solutions to wholesalers, distributors and eateries of various types. I joined this project from the beginning as an application architecture builder. This project partner is Singapore so our team works directly with them."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: SHIMANO
+        link: "https://apps.apple.com/ph/app/shimano-sport-camera-cm-1000/id1230336564"
+        tagline: "SHIMANO SPORT CAMERA smartphone application makes the camera setting simple and your cycling life more enjoyable. I'm involved in the development of both MAC and iOS apps."
 
 skills:
-    title: Skills &amp; Proficiency
+    title: SKILLS & PROFICIENCY
 
     toolset:
-      - name: Python & Django
+      - name: 3rd party SDKs and API(S) integration
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: iOS SDK
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Multi-threading
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: Objective-C
+        level: 90%
+
+      - name: Swift
+        level: 90%
+
+      - name: Reactive programming patterns (RX)
+        level: 80%
+
+      - name: Java, Kotlin, Dart, Flutter
         level: 60%
 
+      - name: Collaboration
+        level: 98%
+
+      - name: Time Management
+        level: 90%
+
+      - name: Adaptability
+        level: 90%
+
+      - name: Organizational Skills
+        level: 80%
+
+      - name: Problem solving
+        level: 80%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Hello world!
