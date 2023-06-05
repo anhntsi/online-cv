@@ -55,6 +55,14 @@ experiences:
     title: Experiences
     info:
       - role: Senior iOS Developer/Team Lead
+        time: 10/2022 - Present
+        company: TDT Asia, Ha Noi
+        details: |
+            - Redesign the architecture of the application, make changes to ensure its safety and stability for future development. With the goal of becoming a super app for trading.
+            - Improve app quality by applying code merging processes as well as CI/CD to ensure continuous development and release.
+            - Improve app stability by quickly and timely fixing crashes. The free crash rate is always above 99%.
+            - Improve the quality of the dev team through training sessions and disseminating common issues or use cases encountered in projects.
+      - role: Senior iOS Developer/Team Lead
         time: 5/2019 - 2/2022
         company: Sun Asterisk, Ha Noi
         details: |
@@ -89,6 +97,10 @@ projects:
     intro: >
       These are the standout projects I've worked on in recent years.
     assignments:
+      - title: POEMS Mobile 3
+        link: "https://apps.apple.com/sg/app/poems-mobile-3-trading-app/id1585924421"
+        tagline: "Trading App offers innovative new features and an intuitive redesign of the platform's user interface, providing the tools and information to cater to the needs of the modern-day investor."
+
       - title: Mooos
         link: "https://shuta-sueyoshi-app.com/"
         tagline: "Mooos builds a connection solution between artists and their fan base like a social network (fan community), including utilities such as live stream, 1:1 video call... In the project, I am in charge of building apps for artist. "
